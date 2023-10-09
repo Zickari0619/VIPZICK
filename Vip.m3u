@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",carrera
+https://scontent.fmex23-1.fna.fbcdn.net/v/t42.1790-2/312121988_781345356269635_9087168596265056578_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=985c63&efg=eyJybHIiOjUwMiwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&_nc_eui2=AeH6NphRYRgaKoj2Zt-rOODFOBRDoxTd5JI4FEOjFN3kkjQPK_3rkwqg-LmGFwa_66Jou7PEpuMLpp2OlDtiUG81&_nc_ohc=tF67viI7IzUAX__ilor&tn=S9aZXt2t7YR9chBZ&_nc_rml=0&_nc_ht=scontent.fmex23-1.fna&oh=00_AfC-xVTezNRuJbKHXdRg6n5FX3vsqBT3QKyiS9uea1eoeA&oe=652880F0
+
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
