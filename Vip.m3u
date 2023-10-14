@@ -354,6 +354,9 @@ https://616eee1852d6c.streamlock.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="UMTV.mx" tvg-logo="https://i.imgur.com/sjxVdPh.png" group-title="RELIGION",UMTV
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8
 
+#EXTINF:-1 tvg-id="XHFNTDT1.mx" tvg-logo="https://i.imgur.com/aGup2ag.png" group-title="RELIGION",SIETE
+https://live.info7.mx/info7/stream.m3u8
+
 #EXTINF:-1 tvg-id="MariaVision.mx" tvg-logo="https://i.imgur.com/GylOPxE.png" group-title="RELIGION",MARIA VISION
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
@@ -492,11 +495,6 @@ https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlis
 #EXTINF:-1 tvg-id="VBMediaTV.mx" tvg-logo="https://i.imgur.com/0W8kHxt.png" group-title="MEXICO",VB MEDIA TV
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="ViXJajaja.mx" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="COMEDIA",VIX COMEDIA
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
@@ -508,9 +506,6 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="MEXICO",TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XHFNTDT1.mx" tvg-logo="https://i.imgur.com/aGup2ag.png" group-title="RELIGION",SIETE
-https://live.info7.mx/info7/stream.m3u8
 
 #EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="MEXICO",TVMAS
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
@@ -1462,8 +1457,6 @@ http://160.20.165.245:8000/play/a01h/index.m3u8
  
 #EXTINF:-1 group-title="PELICULAS" tvg-name="HBO Family" tvg-logo="http://imgfz.com/i/rV7huWR.png" ,FMH FAMILY HD
 http://160.20.165.245:8000/play/a01j/index.m3u8
-
-NOTICIAS
  
 #EXTINF:-1 group-title="NOTICIAS" tvg-name="BBC One HD" tvg-logo="http://imgfz.com/i/z8RZnI1.png" ,CONEXIÓN
 http://181.119.67.75:16123/play/ch15
@@ -1482,76 +1475,74 @@ http://160.20.165.245:8000/play/a00w/index.m3u8
  
 #EXTINF:-1 group-title="NOTICIAS" tvg-name="TeleSur" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47620_dark_360w_270h.png" ,TELESUR
 http://181.119.67.75:16123/play/ch43
- 
-MUSICALES
- 
-#EXTINF:-1 group-title="MUSICALES" tvg-name="Canal Decasa HD" tvg-logo="http://imgfz.com/i/DjTugpK.png" ,CONCERT
+
+#EXTINF:-1 group-title="MUSICA" tvg-name="Canal Decasa HD" tvg-logo="http://imgfz.com/i/DjTugpK.png" ,CONCERT
 http://138.59.177.34:8000/play/a06l/index.m3u8
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name="Claro Sports" tvg-logo="http://imgfz.com/i/7BtHDpz.jpeg" ,SIN LIMITES
+#EXTINF:-1 group-title="MUSICA" tvg-name="Claro Sports" tvg-logo="http://imgfz.com/i/7BtHDpz.jpeg" ,SIN LIMITES
 http://138.59.177.34:8000/play/a04a/index.m3u8
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name="EXA TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47403_dark_360w_270h.png" ,EXA TV
+#EXTINF:-1 group-title="MUSICA" tvg-name="EXA TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47403_dark_360w_270h.png" ,EXA TV
 http://138.59.177.34:8000/play/a05a/index.m3u8
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name=380 tvg-logo="http://imgfz.com/i/Txhj0PV.jpeg" ,HTV
+#EXTINF:-1 group-title="MUSICA" tvg-name=380 tvg-logo="http://imgfz.com/i/Txhj0PV.jpeg" ,HTV
 http://138.59.177.34:8000/play/a04c/index.m3u8
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name="Audio DLA Reggaeton" tvg-logo="http://imgfz.com/i/TSBcxzW.png" ,MI MUSICA REGGAETON
+#EXTINF:-1 group-title="MUSICA" tvg-name="Audio DLA Reggaeton" tvg-logo="http://imgfz.com/i/TSBcxzW.png" ,MI MUSICA REGGAETON
 http://181.119.67.75:16123/play/ch53
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name="Audio DLA Reggaeton" tvg-logo="http://imgfz.com/i/TSBcxzW.png" ,MI MUSICA REGGAETON
+#EXTINF:-1 group-title="MUSICA" tvg-name="Audio DLA Reggaeton" tvg-logo="http://imgfz.com/i/TSBcxzW.png" ,MI MUSICA REGGAETON
 http://160.20.165.245:8000/play/a018/index.m3u8
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name="DMX Musica Cubana" tvg-logo="http://imgfz.com/i/4hjUX21.png" ,MI MUSICA ROMANTICA
+#EXTINF:-1 group-title="MUSICA" tvg-name="DMX Musica Cubana" tvg-logo="http://imgfz.com/i/4hjUX21.png" ,MI MUSICA ROMANTICA
 http://181.119.67.75:16123/play/ch54
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name="NU Music" tvg-logo="http://imgfz.com/i/PTr1DpR.png" ,MI MUSICA SALSA
+#EXTINF:-1 group-title="MUSICA" tvg-name="NU Music" tvg-logo="http://imgfz.com/i/PTr1DpR.png" ,MI MUSICA SALSA
 http://181.119.67.75:16123/play/ch55
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name=DLASALS tvg-logo="http://imgfz.com/i/PTr1DpR.png" ,MI MÚSICA SALSA
+#EXTINF:-1 group-title="MUSICA" tvg-name=DLASALS tvg-logo="http://imgfz.com/i/PTr1DpR.png" ,MI MÚSICA SALSA
 http://160.20.165.245:8000/play/a01a/index.m3u8
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name="AUDIO DLA MUSICA POPULAR BRASI" tvg-logo="http://imgfz.com/i/Pz3wfH7.png" ,MI MUSICA POPULAR
+#EXTINF:-1 group-title="MUSICA" tvg-name="AUDIO DLA MUSICA POPULAR BRASI" tvg-logo="http://imgfz.com/i/Pz3wfH7.png" ,MI MUSICA POPULAR
 http://181.119.67.75:16123/play/ch56
  
-#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://imgfz.com/i/Pz3wfH7.png" ,MI MÚSICA POPULAR
+#EXTINF:-1 group-title="MUSICA" tvg-logo="http://imgfz.com/i/Pz3wfH7.png" ,MI MÚSICA POPULAR
 http://160.20.165.245:8000/play/a01b/index.m3u8
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name=AGUASTV tvg-logo="http://imgfz.com/i/duL7tSp.png" ,MAS 23
+#EXTINF:-1 group-title="MUSICA" tvg-name=AGUASTV tvg-logo="http://imgfz.com/i/duL7tSp.png" ,MAS 23
 http://138.59.177.34:8000/play/a03t/index.m3u8
  
-#EXTINF:-1 group-title="MUSICALES" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" ,MTV
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" ,MTV
 http://138.59.177.34:8000/play/a06k/index.m3u8
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name=MTV tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" ,MTV HD
+#EXTINF:-1 group-title="MUSICAL" tvg-name=MTV tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" ,MTV HD
 http://138.59.177.34:8000/play/a02u/index.m3u8
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name=MTV tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" ,MTV HD
+#EXTINF:-1 group-title="MUSICA" tvg-name=MTV tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" ,MTV HD
 http://45.169.99.154:58001/play/a02h/index.m3u8
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name="MTV 00s" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png" ,MTV 00s
+#EXTINF:-1 group-title="MUSICA" tvg-name="MTV 00s" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png" ,MTV 00s
 http://138.59.177.34:8000/play/a04b/index.m3u8
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name="MTV 00s" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png" ,MTV 00s HD
+#EXTINF:-1 group-title="MUSICA" tvg-name="MTV 00s" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png" ,MTV 00s HD
 http://45.169.99.154:58001/play/a00d/index.m3u8
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name="MTV 00s" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png" ,MTV 00s HD
+#EXTINF:-1 group-title="MUSICA" tvg-name="MTV 00s" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png" ,MTV 00s HD
 http://138.59.177.34:8000/play/a05r/index.m3u8
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name="MTV 80's" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" ,MTV 80s
+#EXTINF:-1 group-title="MUSICA" tvg-name="MTV 80's" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" ,MTV 80s
 http://138.59.177.34:8000/play/a02j/index.m3u8
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name="MTV Hits International" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24214_dark_360w_270h.png" ,MTV HITS
+#EXTINF:-1 group-title="MUSICA" tvg-name="MTV Hits International" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24214_dark_360w_270h.png" ,MTV HITS
 http://138.59.177.34:8000/play/a02i/index.m3u8
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name="MTV Live" tvg-logo="http://imgfz.com/i/7tqUMaW.png" ,MTV LIVE HD
+#EXTINF:-1 group-title="MUSICA" tvg-name="MTV Live" tvg-logo="http://imgfz.com/i/7tqUMaW.png" ,MTV LIVE HD
 http://138.59.177.34:8000/play/a05q/index.m3u8
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name="MTV Live" tvg-logo="http://imgfz.com/i/7tqUMaW.png" ,MTV LIVE HD
+#EXTINF:-1 group-title="MUSICA" tvg-name="MTV Live" tvg-logo="http://imgfz.com/i/7tqUMaW.png" ,MTV LIVE HD
 http://45.169.99.154:58001/play/a00c/index.m3u8
  
-#EXTINF:-1 group-title="MUSICALES" tvg-name=ENLACE tvg-logo="http://imgfz.com/i/RlY97zP.jpeg" ,LA KALLE
+#EXTINF:-1 group-title="MUSICA" tvg-name=ENLACE tvg-logo="http://imgfz.com/i/RlY97zP.jpeg" ,LA KALLE
 http://181.119.67.75:16123/play/ch4
  
 #EXTINF:-1 group-title="VARIEDADES" tvg-name=CLIC tvg-logo="http://imgfz.com/i/2i4LrPx.png" ,CLIC HD
