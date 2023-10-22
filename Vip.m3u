@@ -1,9 +1,3 @@
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.F-Ryx7XQWipQ4f_BmB_MgwAAAA&pid=Api&P=0&w=400&h=527" group-title="24/7", CABALLEROS DEL ZODIACO HD
-http://moonspelltools.cc:8080/robtcn5/FdN7UVzZchzs/61900
-
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.ewn7tC2j2fphPsHQJc9B3wHaLH&pid=Api&P=0&w=400&h=600" group-title="24/7", CABALLEROS DEL ZODIACO FHD
-http://moonspelltools.cc:8080/robtcn5/FdN7UVzZchzs/61900 
-
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9YBvrc1W78m6i91Z0wKWWAHaK5&pid=Api&P=0&w=400&h=588" group-title="24/7",LOS SIMPSONS HD
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/129313
 
@@ -1479,35 +1473,6 @@ http://181.119.67.75:16123/play/ch43
 #EXTINF:-1 group-title="MUSICA" tvg-name="Canal Decasa HD" tvg-logo="http://imgfz.com/i/DjTugpK.png" ,CONCERT
 http://138.59.177.34:8000/play/a06l/index.m3u8
  
-#EXTINF:-1 group-title="MUSICA" tvg-name="Claro Sports" tvg-logo="http://imgfz.com/i/7BtHDpz.jpeg" ,SIN LIMITES
-http://138.59.177.34:8000/play/a04a/index.m3u8
- 
-#EXTINF:-1 group-title="MUSICA" tvg-name="EXA TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47403_dark_360w_270h.png" ,EXA TV
-http://138.59.177.34:8000/play/a05a/index.m3u8
- 
-#EXTINF:-1 group-title="MUSICA" tvg-name=380 tvg-logo="http://imgfz.com/i/Txhj0PV.jpeg" ,HTV
-http://138.59.177.34:8000/play/a04c/index.m3u8
- 
-#EXTINF:-1 group-title="MUSICA" tvg-name="Audio DLA Reggaeton" tvg-logo="http://imgfz.com/i/TSBcxzW.png" ,MI MUSICA REGGAETON
-http://181.119.67.75:16123/play/ch53
- 
-#EXTINF:-1 group-title="MUSICA" tvg-name="Audio DLA Reggaeton" tvg-logo="http://imgfz.com/i/TSBcxzW.png" ,MI MUSICA REGGAETON
-http://160.20.165.245:8000/play/a018/index.m3u8
- 
-#EXTINF:-1 group-title="MUSICA" tvg-name="DMX Musica Cubana" tvg-logo="http://imgfz.com/i/4hjUX21.png" ,MI MUSICA ROMANTICA
-http://181.119.67.75:16123/play/ch54
- 
-#EXTINF:-1 group-title="MUSICA" tvg-name="NU Music" tvg-logo="http://imgfz.com/i/PTr1DpR.png" ,MI MUSICA SALSA
-http://181.119.67.75:16123/play/ch55
- 
-#EXTINF:-1 group-title="MUSICA" tvg-name=DLASALS tvg-logo="http://imgfz.com/i/PTr1DpR.png" ,MI MÚSICA SALSA
-http://160.20.165.245:8000/play/a01a/index.m3u8
- 
-#EXTINF:-1 group-title="MUSICA" tvg-name="AUDIO DLA MUSICA POPULAR BRASI" tvg-logo="http://imgfz.com/i/Pz3wfH7.png" ,MI MUSICA POPULAR
-http://181.119.67.75:16123/play/ch56
- 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="http://imgfz.com/i/Pz3wfH7.png" ,MI MÚSICA POPULAR
-http://160.20.165.245:8000/play/a01b/index.m3u8
  
 #EXTINF:-1 group-title="MUSICA" tvg-name=AGUASTV tvg-logo="http://imgfz.com/i/duL7tSp.png" ,MAS 23
 http://138.59.177.34:8000/play/a03t/index.m3u8
